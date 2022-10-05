@@ -1,0 +1,10 @@
+E:\MediaPlayerOOP2B\MediaPlayerOOP2B\bin\Debug\MediaPlayerOOP2B.exe
+E:\MediaPlayerOOP2B\MediaPlayerOOP2B\bin\Debug\MediaPlayerOOP2B.pdb
+E:\MediaPlayerOOP2B\MediaPlayerOOP2B\obj\x86\Debug\MediaPlayerOOP2B.Form1.resources
+E:\MediaPlayerOOP2B\MediaPlayerOOP2B\obj\x86\Debug\MediaPlayerOOP2B.Properties.Resources.resources
+E:\MediaPlayerOOP2B\MediaPlayerOOP2B\obj\x86\Debug\MediaPlayerOOP2B.csproj.GenerateResource.Cache
+E:\MediaPlayerOOP2B\MediaPlayerOOP2B\obj\x86\Debug\MediaPlayerOOP2B.exe
+E:\MediaPlayerOOP2B\MediaPlayerOOP2B\obj\x86\Debug\MediaPlayerOOP2B.pdb
+E:\MediaPlayerOOP2B\MediaPlayerOOP2B\obj\x86\Debug\MediaPlayerOOP2B.csprojResolveAssemblyReference.cache
+E:\DHA SUFFA UNIVERSITY\Semester 2\Courses\Object Oriented Programming\MediaPlayer\MediaPlayer\MediaPlayerOOP2B\obj\x86\Debug\MediaPlayerOOP2B.exe
+E:\DHA SUFFA UNIVERSITY\Semester 2\Courses\Object Oriented Programming\MediaPlayer\MediaPlayer\MediaPlayerOOP2B\obj\x86\Debug\MediaPlayerOOP2B.pdb
